@@ -6,3 +6,12 @@
  if You wnt to buy Script Dm me on Telegram : https://t.me/joe112532 
 
  Demo : https://anihustle.xyz
+
+
+  # Features 
+
+1: animephae Download Links { 360p , 720p , 1080p }
+2nd : many Streaming Player 
+3rd : support Sub/dub
+4th : Support 
+
