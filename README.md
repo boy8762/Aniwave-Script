@@ -10,7 +10,13 @@
 
   # Features 
 
-1: animephae Download Links { 360p , 720p , 1080p }
+1: animephae Download Links { 360p , 720p , 1080p } <br>
+2nd : Streaming Server : 
+   . animephae 
+   . hianime
+   . gogoanime
+   . animesuge
+ 
 2nd : many Streaming Player 
 3rd : support Sub/dub
 4th : Support 
