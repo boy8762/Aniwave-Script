@@ -17,7 +17,7 @@
    . gogoanime
    . animesuge
  
-2nd : many Streaming Player 
-3rd : support Sub/dub
-4th : Support 
+2nd : many Streaming Player <br>
+3rd : support Sub/dub<br>
+4th : Support <br>
 
